@@ -9,4 +9,4 @@ function randomMail(){
         }
     };
 randomMail();
-refreshBtn.addEventListener("click", randomMail);
+refreshBtn.addEventListener("click", randomMail)
